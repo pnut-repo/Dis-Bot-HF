@@ -1,0 +1,8 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+transformers==4.40.0
+sentence-transformers==2.7.0
+torch==2.2.2
+hdbscan==0.8.39
+scipy==1.13.0
+numpy==1.26.4
